@@ -14,9 +14,9 @@
 
 - 🤝 I’m looking for help with [TinyToolSH](https://github.com/TinyToolSH)
 
-- 👨‍💻 All of my projects are available at [calebe94.github.io](calebe94.github.io)
+- 👨‍💻 All of my projects are available at [github.com/calebe94](https://github.com/Calebe94)
 
-- 📝 I regularly write articles on [https://calebe94.github.io/blog/](https://calebe94.github.io/blog/)
+- 📝 I regularly write articles on [blog.calebe.dev.br/](https://blog.calebe.dev.br/)
 
 - 💬 Ask me about **C/C++, Python, GNU/Linux and git** 
 
